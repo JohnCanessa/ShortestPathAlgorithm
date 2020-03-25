@@ -6,8 +6,8 @@ This call for a different representation.
 I am considering to eliminate redundant edges by keeping the shortest.
 With that in mind, I will write a solution.
 
-For additional information please visit the post in my blog using th efollowing link:
+For additional information please visit the post in my blog using the following link:
 
-T.B.D.
+https://www.johncanessa.com/2018/11/18/graphs-shortest-distance-paths/
 
 Enjoy!!!
